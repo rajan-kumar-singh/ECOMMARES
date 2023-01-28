@@ -18,9 +18,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Header />
-        <div className='banner'>
-          <img src='https://m.media-amazon.com/images/I/61RvHn0+pAL._SX3000_.jpg' />
-        </div>
+        
         <Routes>
             <Route path='/' element={<Product/>} />
 

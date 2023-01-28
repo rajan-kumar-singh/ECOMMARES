@@ -1,7 +1,8 @@
 .products-wrop{
     display: grid;
     place-items: center;
-    margin: -200px;
+    /* margin: -200px; */
+    margin: 20px;
     width: 100%;
     margin-left: 0%;
     grid-template-columns: auto auto auto auto;
@@ -10,12 +11,12 @@
 .products-wrop .product {
     background-color: #fff;
     height: 400px;
-    padding:10px;
-    margin: 0px 5%;
+    /* padding:10px; */
+    /* margin: 0px 5%; */
     width: 90%;
     text-align: center;
     box-shadow: 0px 0px 10px rgb(0 0 0 / 37%);
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
 }
 .products-wrop .product img{
     max-width: 100%;
