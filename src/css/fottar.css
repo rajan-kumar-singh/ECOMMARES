@@ -1,0 +1,28 @@
+.Fottar{
+    width: 100%;
+    height: 400px;
+    background-color:#232f30;
+    margin-top: 200px;
+
+}
+.fottar1{
+    height:40px;
+background-color: lightslategray;
+
+
+}
+.fottar1 p{
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+
+}
+.listContent{
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-around;
+    
+}.listContent{
+    color: #fff;
+}
