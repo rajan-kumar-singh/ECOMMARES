@@ -64,6 +64,15 @@
     align-items: center;
     margin-left: 20px;
 }
+.header-button ul li:hover{
+    background-color: #131921;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    margin-top: 7px;
+    border-radius: 20px;
+    text-overflow: ellipsis;
+}
 .header-button ul li{
     margin-right: 20px;
     color: #fff;
