@@ -16,6 +16,9 @@ img{
     
     
 }
+img:hover{
+  opacity: 0.6;
+}
 .image{
   margin:1rem;
 }
